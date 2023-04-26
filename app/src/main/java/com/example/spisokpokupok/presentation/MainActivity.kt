@@ -23,6 +23,6 @@ class MainActivity : AppCompatActivity() {
 
     }
     private fun showList(list: List<ShopItem>){
-
+     //as
     }
 }
